@@ -1,4 +1,19 @@
-# Code Refactor Starter Code
-# updated the start code with head element with new title 
-# changed the body tag by adding header, three section and footer tag
-# to accesse deployed application follow the link below 
+# Horiseon Social Solution Services, Inc.
+
+## Purpose 
+A website that offers services 
+
+## Built with 
+* HTML 
+* CSS
+
+## Website
+https://yohans14.github.io/YG-challenge-1/
+
+## Contrubution 
+Made with ❤️ by [Yohans Getaneh]
+
+
+
+### ©️2019 Horiseon Social Solution Services, Inc.
+
